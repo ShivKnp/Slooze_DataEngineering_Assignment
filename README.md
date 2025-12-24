@@ -217,24 +217,6 @@ This scraper is designed with ethical web scraping practices:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - [TradeIndia](https://www.tradeindia.com/) - Data source
@@ -242,17 +224,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) - HTML parsing
 - [Pandas](https://pandas.pydata.org/) - Data manipulation
 
----
-
-## 📧 Contact
-
-For questions or feedback, please open an issue on this repository.
-
----
-
-<p align="center">
-  <b>Built with ❤️ using Python, Plotly & BeautifulSoup</b>
-</p>
-<p align="center">
-  <i>⭐ Star this repo if you find it useful!</i>
-</p>

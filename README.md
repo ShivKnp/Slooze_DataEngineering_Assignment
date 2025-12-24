@@ -7,8 +7,6 @@
 
 A robust Python-based web scraping solution for extracting product and supplier data from **TradeIndia** B2B marketplace, featuring anti-blocking mechanisms, live data extraction, and comprehensive exploratory data analysis with stunning visualizations.
 
-![Dashboard Preview](https://via.placeholder.com/800x400/1a1a2e/667eea?text=B2B+Marketplace+Dashboard)
-
 ---
 
 ## ✨ Features
@@ -223,4 +221,5 @@ This scraper is designed with ethical web scraping practices:
 - [Plotly](https://plotly.com/) - Interactive visualizations
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) - HTML parsing
 - [Pandas](https://pandas.pydata.org/) - Data manipulation
+
 

@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-5.0+-green.svg)](https://plotly.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A robust Python-based web scraping solution for extracting product and supplier data from **TradeIndia** B2B marketplace, featuring anti-blocking mechanisms, live data extraction, and comprehensive exploratory data analysis with stunning visualizations.
 
@@ -221,5 +220,6 @@ This scraper is designed with ethical web scraping practices:
 - [Plotly](https://plotly.com/) - Interactive visualizations
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) - HTML parsing
 - [Pandas](https://pandas.pydata.org/) - Data manipulation
+
 
 

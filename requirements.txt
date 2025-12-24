@@ -1,0 +1,24 @@
+# B2B Marketplace Scraper - Requirements
+# Install with: pip install -r requirements.txt
+
+# Web Scraping
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+
+# Data Processing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualization
+plotly>=5.13.0
+
+# Statistical Analysis
+scipy>=1.10.0
+
+# Jupyter Notebook (optional, for running the notebook)
+jupyter>=1.0.0
+jupyterlab>=3.6.0
+ipykernel>=6.20.0
+
+# Notebook widgets for interactivity
+ipywidgets>=8.0.0
